@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PAT1011_A+BandC", "PAT1011_A+BandC\PAT1011_A+BandC.vcxproj", "{D6DFF4C0-D3DC-41E1-8F26-76842ED3418F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6DFF4C0-D3DC-41E1-8F26-76842ED3418F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D6DFF4C0-D3DC-41E1-8F26-76842ED3418F}.Debug|Win32.Build.0 = Debug|Win32
+		{D6DFF4C0-D3DC-41E1-8F26-76842ED3418F}.Release|Win32.ActiveCfg = Release|Win32
+		{D6DFF4C0-D3DC-41E1-8F26-76842ED3418F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
